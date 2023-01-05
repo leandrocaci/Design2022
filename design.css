@@ -1,0 +1,108 @@
+.header{
+    background-image: linear-gradient(red, #fff);
+    width: 1200px;
+    height: 60vh;
+}
+.header img{
+    margin: 100px;
+}
+.header h1{
+    color: white;
+    padding-top: 150px;
+}
+.header p{
+    color: white;
+    padding-top: 1px;
+}
+.header button{
+    padding-top: 1px;
+    color: white;
+    background-color: red;
+    width: 150px;
+    height: 25px;
+    border-radius: 5%;
+}
+.main{
+    background-color: rgb(245, 240, 232);
+    width: 1200px;
+    display: flex;
+    height: 30vh;
+}
+.container{
+    width: 400px;
+}
+.main .container .container-img img{
+    height: 40px;
+    width: 40px;
+    padding-top: 70px;
+    padding-left: 60px;
+    padding-right: 10px;
+}
+.container h3{
+    width: 300px;
+    text-align: center;
+    padding-top: 20px;
+}
+.container p{
+    width: 300px;
+}
+.about{
+    background-color: #fff;
+    width: 1200px;
+    height: 60vh;
+}
+.about .about-img img{
+    padding-top: 50px;
+    padding-right: 300px;
+
+}
+.about h1{
+    padding-top: 40px;
+    padding-left: 300px;
+}
+.about p{
+    width: 300px;
+    padding-left: 300px;
+}
+.about button{
+    background-color: red;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+.features{
+    background-color: rgb(245, 240, 232);
+    width: 1200px;     
+}
+.features .features-row1 h1{
+    text-align: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+.features .features-row1 p{
+    text-align: center;
+    padding-left: 450px;
+    padding-right: 450px;
+    
+}
+.features .features-row2 {
+    display: inline-block;
+    width: 300px;
+}
+.features .features-row2 .features-img img{
+    width: 50px;
+    height: 50px;
+    padding-top: 60px;
+    padding-left: 200px;
+
+}
+.features .features-row2 h4{
+    text-align: center;
+    padding-left: 150px;
+}
+.features .features-row2 p{
+    text-align: center;
+    padding-left: 150px;
+}
+
+
